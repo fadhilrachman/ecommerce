@@ -17,8 +17,8 @@ const Navbar = () => {
             <small>3</small>
           </div>
         </div>
-        <a href="" className="text-1xl">
-          login / regsiter
+        <a href="/" className="text-1xl">
+          login / register
         </a>
       </div>
     </div>
