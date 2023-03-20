@@ -4,7 +4,7 @@ const Kategori = () => {
     return (
         // Content 2
         <section className="py-20">
-                <div className="flex flex-row w-full border justify-between items-center px-20">
+                <div className="flex flex-row w-full justify-between items-center px-20">
                     <div>
                         <h1 className="text-2xl font-semibold"><span className="border-b-2 pr-2 border-red-500">NEW</span>PRODUCT</h1>
                     </div>
@@ -38,7 +38,7 @@ const Kategori = () => {
                     <div className="grid grid-cols-4 px-20 gap-7 py-10">
                         {/* Produk Image */}
                         <div className="">
-                            <div className="flex justify-center items-center hover:scale-[1.03] duration-300 bg-[#FAFAFA]">
+                            <div className="flex justify-center items-center hover:scale-[1.03] duration-300 delay-75 bg-[#FAFAFA]">
                                 <a href="/"><img src="/image/iphone14.png" alt="Iphone 14" /></a>
                             </div>
                             {/* Deskripsi produk */}
@@ -47,7 +47,7 @@ const Kategori = () => {
                                 <div className="flex flex-row justify-between items-center px-10">
                                     <p className="font-bold">$ 2000</p>
                                     <a href="/">
-                                        <i class="bi bi-cart-plus-fill text-2xl bg-clip-text text-transparent bg-red-500"></i>
+                                        <i class="bi bi-cart-plus-fill text-2xl bg-clip-text text-transparent bg-red-500 hover:bg-sla"></i>
                                     </a>
                                 </div>
                             </div>
@@ -55,7 +55,7 @@ const Kategori = () => {
 
                         {/* Produk Image */}
                         <div className="">
-                            <div className="flex justify-center items-center hover:scale-[1.03] duration-300 bg-[#FAFAFA]">
+                            <div className="flex justify-center items-center hover:scale-[1.03] duration-300 delay-75 bg-[#FAFAFA]">
                                 <a href="/"><img src="/image/iphone14.png" alt="Iphone 14" /></a>
                             </div>
                             {/* Deskripsi produk */}
@@ -64,7 +64,7 @@ const Kategori = () => {
                                 <div className="flex flex-row justify-between items-center px-10">
                                     <p className="font-bold">$ 2000</p>
                                     <a href="/">
-                                        <i class="bi bi-cart-plus-fill text-2xl bg-clip-text text-transparent bg-red-500"></i>
+                                        <i class="bi bi-cart-plus-fill text-2xl bg-clip-text text-transparent bg-red-500 hover:bg-sla"></i>
                                     </a>
                                 </div>
                             </div>
@@ -72,7 +72,7 @@ const Kategori = () => {
                         
                         {/* Produk Image */}
                         <div className="">
-                            <div className="flex justify-center items-center hover:scale-[1.03] duration-300 bg-[#FAFAFA]">
+                            <div className="flex justify-center items-center hover:scale-[1.03] duration-300 delay-75 bg-[#FAFAFA]">
                                 <a href="/"><img src="/image/iphone14.png" alt="Iphone 14" /></a>
                             </div>
                             {/* Deskripsi produk */}
@@ -81,7 +81,7 @@ const Kategori = () => {
                                 <div className="flex flex-row justify-between items-center px-10">
                                     <p className="font-bold">$ 2000</p>
                                     <a href="/">
-                                        <i class="bi bi-cart-plus-fill text-2xl bg-clip-text text-transparent bg-red-500"></i>
+                                        <i class="bi bi-cart-plus-fill text-2xl bg-clip-text text-transparent bg-red-500 hover:bg-sla"></i>
                                     </a>
                                 </div>
                             </div>
@@ -89,7 +89,7 @@ const Kategori = () => {
 
                         {/* Produk Image */}
                         <div className="">
-                            <div className="flex justify-center items-center hover:scale-[1.03] duration-300 bg-[#FAFAFA]">
+                            <div className="flex justify-center items-center hover:scale-[1.03] duration-300 delay-75 bg-[#FAFAFA]">
                                 <a href="/"><img src="/image/iphone14.png" alt="Iphone 14" /></a>
                             </div>
                             {/* Deskripsi produk */}
@@ -98,7 +98,7 @@ const Kategori = () => {
                                 <div className="flex flex-row justify-between items-center px-10">
                                     <p className="font-bold">$ 2000</p>
                                     <a href="/">
-                                        <i class="bi bi-cart-plus-fill text-2xl bg-clip-text text-transparent bg-red-500"></i>
+                                        <i class="bi bi-cart-plus-fill text-2xl bg-clip-text text-transparent bg-red-500 hover:bg-sla"></i>
                                     </a>
                                 </div>
                             </div>
@@ -106,7 +106,7 @@ const Kategori = () => {
 
                         {/* Produk Image */}
                         <div className="">
-                            <div className="flex justify-center items-center hover:scale-[1.03] duration-300 bg-[#FAFAFA]">
+                            <div className="flex justify-center items-center hover:scale-[1.03] duration-300 delay-75 bg-[#FAFAFA]">
                                 <a href="/"><img src="/image/iphone14.png" alt="Iphone 14" /></a>
                             </div>
                             {/* Deskripsi produk */}
@@ -115,7 +115,7 @@ const Kategori = () => {
                                 <div className="flex flex-row justify-between items-center px-10">
                                     <p className="font-bold">$ 2000</p>
                                     <a href="/">
-                                        <i class="bi bi-cart-plus-fill text-2xl bg-clip-text text-transparent bg-red-500"></i>
+                                        <i class="bi bi-cart-plus-fill text-2xl bg-clip-text text-transparent bg-red-500 hover:bg-sla"></i>
                                     </a>
                                 </div>
                             </div>
@@ -123,7 +123,7 @@ const Kategori = () => {
 
                         {/* Produk Image */}
                         <div className="">
-                            <div className="flex justify-center items-center hover:scale-[1.03] duration-300 bg-[#FAFAFA]">
+                            <div className="flex justify-center items-center hover:scale-[1.03] duration-300 delay-75 bg-[#FAFAFA]">
                                 <a href="/"><img src="/image/iphone14.png" alt="Iphone 14" /></a>
                             </div>
                             {/* Deskripsi produk */}
@@ -132,7 +132,7 @@ const Kategori = () => {
                                 <div className="flex flex-row justify-between items-center px-10">
                                     <p className="font-bold">$ 2000</p>
                                     <a href="/">
-                                        <i class="bi bi-cart-plus-fill text-2xl bg-clip-text text-transparent bg-red-500"></i>
+                                        <i class="bi bi-cart-plus-fill text-2xl bg-clip-text text-transparent bg-red-500 hover:bg-sla"></i>
                                     </a>
                                 </div>
                             </div>
@@ -140,7 +140,7 @@ const Kategori = () => {
 
                         {/* Produk Image */}
                         <div className="">
-                            <div className="flex justify-center items-center hover:scale-[1.03] duration-300 bg-[#FAFAFA]">
+                            <div className="flex justify-center items-center hover:scale-[1.03] duration-300 delay-75 bg-[#FAFAFA]">
                                 <a href="/"><img src="/image/iphone14.png" alt="Iphone 14" /></a>
                             </div>
                             {/* Deskripsi produk */}
@@ -149,7 +149,7 @@ const Kategori = () => {
                                 <div className="flex flex-row justify-between items-center px-10">
                                     <p className="font-bold">$ 2000</p>
                                     <a href="/">
-                                        <i class="bi bi-cart-plus-fill text-2xl bg-clip-text text-transparent bg-red-500"></i>
+                                        <i class="bi bi-cart-plus-fill text-2xl bg-clip-text text-transparent bg-red-500 hover:bg-sla"></i>
                                     </a>
                                 </div>
                             </div>
@@ -157,7 +157,7 @@ const Kategori = () => {
 
                         {/* Produk Image */}
                         <div className="">
-                            <div className="flex justify-center items-center hover:scale-[1.03] duration-300 bg-[#FAFAFA]">
+                            <div className="flex justify-center items-center hover:scale-[1.03] duration-300 delay-75 bg-[#FAFAFA]">
                                 <a href="/"><img src="/image/iphone14.png" alt="Iphone 14" /></a>
                             </div>
                             {/* Deskripsi produk */}
@@ -166,7 +166,7 @@ const Kategori = () => {
                                 <div className="flex flex-row justify-between items-center px-10">
                                     <p className="font-bold">$ 2000</p>
                                     <a href="/">
-                                        <i class="bi bi-cart-plus-fill text-2xl bg-clip-text text-transparent bg-red-500"></i>
+                                        <i class="bi bi-cart-plus-fill text-2xl bg-clip-text text-transparent bg-red-500 hover:bg-sla"></i>
                                     </a>
                                 </div>
                             </div>
@@ -177,6 +177,7 @@ const Kategori = () => {
                     </div>    
                 
         </section>
+        
     )
 }
 

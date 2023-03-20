@@ -3,7 +3,7 @@ import React from "react";
 const Content = () => {
     return (
         // Content 1
-        <section className="grid grid-cols-11 grid-flow-col py-2 h-[650px] gap-2.5">
+        <section className="grid  grid-cols-11 grid-flow-col h-[650px] bg-[#EEEEEE] gap-4">
 
         {/* Image1 */}
             <div className="flex flex-col col-start-1 col-end-6 row-span-6 justify-center items-start gap-3 px-20 bg-[#FBE3D7]">
@@ -37,6 +37,7 @@ const Content = () => {
             <div className="flex flex-col justify-center items-start px-12 col-span-3 row-span-3 gap-3 bg-[#CCE3F5]">
                 <h1 className="font-bold text-2xl ">Accessories</h1>
                 <p>items</p>
+                <img src="" alt="" />
                 <a className="border-b-2 font-bold border-red-500" href="/">Shop Now</a>
             </div>
         </section>
